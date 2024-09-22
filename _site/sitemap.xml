@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/Gesko/about/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/netlify/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/typography/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/coding/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/jekyll/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/seo/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/wordpress/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/css/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Gesko/tag/security/</loc>
+<loc>http://localhost:4000/Monkcat/</loc>
 </url>
 </urlset>
