@@ -1,11 +1,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Jaehyeon Lee
-description: Welcome to my blog!
-baseurl: ""
-url: "https://monkcat.github.io"
+title: Bay Jekyll Theme
+description: Bay is a minimal Jekyll Theme.
+baseurl: "/bay"
+url: "https://eliottvincent.github.io"
 og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-121636368-3"
 
 header:
   pages:
@@ -19,23 +20,30 @@ footer:
   contact:
     - type: email
       name: Email
-      value: ewogus125@dgist.ac.mr
-
+      value: yourmail@domain.com
+    - type: wechat
+      value: YourWeChatUsername
+      link: "#"
   follow:
-    - #type: twitter
-      #name: Twitter
-      #link: http://twitter.com/YourTwitterUsername
-      #username: "@YourTwitterUsername"
-    - #type: linkedin
-      #name: LinkedIn
-      #link: http://linkedin.com/in/YourLinkedInUsername
+    - type: twitter
+      name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
+    - type: facebook
+      name: Facebook
+      link: http://facebook.com/YourFacebookUsername
+    - type: linkedin
+      name: LinkedIn
+      link: http://linkedin.com/in/YourLinkedInUsername
     - type: github
       name: GitHub
-      link: http://github.com/monkcat
-    - #type: blog
-      #name: Blog
-      #link: https://blog.naver.com/ewogus125
-
+      link: http://github.com/YourGitHubUsername
+    - type: dribbble
+      name: Dribbble
+      link: https://dribbble.com/YourDribbbleUsername
+    - type: rss
+      name: RSS
+      link: /feed.xml
 
 # Build settings
 markdown: kramdown
