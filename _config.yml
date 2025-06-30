@@ -19,30 +19,23 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+      value: ewogus125@dgist.ac.mr
+
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+    - #type: twitter
+      #name: Twitter
+      #link: http://twitter.com/YourTwitterUsername
+      #username: "@YourTwitterUsername"
+    - #type: linkedin
+      #name: LinkedIn
+      #link: http://linkedin.com/in/YourLinkedInUsername
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+      link: http://github.com/monkcat
+    - #type: blog
+      #name: Blog
+      #link: https://blog.naver.com/ewogus125
+
 
 # Build settings
 markdown: kramdown
